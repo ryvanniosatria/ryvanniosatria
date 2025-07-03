@@ -1,4 +1,4 @@
-👋 Hi There<br><br>I am Nio, Web developer, Network engineer and I also like to UI/UX design.
+👋 Hi There<br><br>I am Nio, Web developer, Network engineer and I also like to UI/UX designn.
 
 
 ## 💻 Tech Stack:
